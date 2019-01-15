@@ -1,8 +1,8 @@
-minecraft-skin-api
+# minecraft-skin-api
 new minecraft skin download api
 
 
-Example:
+## Example:
 
 http://localhost/minecraftskin.php?name=MaxChen_CX
 
