@@ -1,5 +1,5 @@
 # minecraft-skin-api
-new minecraft skin download api
+The new minecraft skin download api
 
 
 ## Example:
